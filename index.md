@@ -91,7 +91,7 @@ Syntax highlighted code block
 
 
 
-[[Link](https://skyline.github.com/jackhallloween21/2021)](url) and ![Image](src)
+[[Link](https://skyline.github.com/jackhallloween21/2021)] and [readme-ascii](https://user-images.githubusercontent.com/17814535/88974985-14ced400-d27f-11ea-83a8-065d86dd8d26.png)]
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
