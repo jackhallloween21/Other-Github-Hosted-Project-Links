@@ -86,20 +86,12 @@ Syntax highlighted code block
         <img alt="" width="400" src="https://skyline.github.com/jackhallloween21/2021" alt=""></img>
         <img width="900" height="1" alt="">
       </td>
+      
+   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[[Link](https://skyline.github.com/jackhallloween21/2021)](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
