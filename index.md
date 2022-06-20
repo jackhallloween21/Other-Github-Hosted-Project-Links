@@ -11,7 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 ![spotify-github-profile](/icons/default.svg)
+
 ### Hi there 👋
+
 <p align="center">
 <img src="https://github.com/jackhallloween21/jackhallloween21/blob/main/wallpapersden.com_k-talking-to-the-moon_3840x2160.jpg" />
 </p align="center">
