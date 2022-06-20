@@ -92,16 +92,16 @@ Syntax highlighted code block
 
 
 [[Link](https://skyline.github.com/jackhallloween21/2021)] 
-<img alt="" width="400"
+<img alt="" width="900"
 src="https://github.com/jackhallloween21/octocat.github.io/blob/gh-pages/.github/images/Jack_Hallloween21.png"
 alt=""></img></details>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+     For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+     ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jackhallloween21/octocat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+     Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jackhallloween21/octocat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+      ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
