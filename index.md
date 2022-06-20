@@ -89,6 +89,8 @@ Syntax highlighted code block
       
    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jackhallloween21&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 
 [[🌇 GitHub Skyline 3D calendar](https://skyline.github.com/jackhallloween21/2021)] 
