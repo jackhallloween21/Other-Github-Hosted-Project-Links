@@ -29,7 +29,7 @@ https://speedy.rootop.workers.dev/1:/
   
 <a href="https://jackhallloween21.github.io/Whatsapp-Clone/" target="blank"><img align="center" src="https://imgur.com/i3MrtBh.png" alt="Whatsapp" height="250" width="250" /></a> **Whatsapp Clone** [![Website Whatsapp](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/Whatsapp-Clone/)
  
- <a href="https://jackhallloween21.github.io/My-Name-In-Style/" target="blank"><img align="center" src="https://imgur.com/S3We9As.png" alt="My Name in Style" height="250" width="250" /></a> **My Name in Style** [!My Name In Style[](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/My-Name-In-Style/)
+ <a href="https://jackhallloween21.github.io/My-Name-In-Style/" target="blank"><img align="center" src="https://imgur.com/S3We9As.png" alt="My Name in Style" height="250" width="250" /></a> **My Name in Style** [!My Name In Style](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/My-Name-In-Style/)
  
   <a href="https://jackhallloween21.github.io/Android_Simulator/" target="blank"><img align="center" src="https://imgur.com/z4YD1FT.png" alt="Android Simulator" height="250" width="250" /></a> **Android Simulator** [![Android Simulator](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/Android_Simulator/)
   
