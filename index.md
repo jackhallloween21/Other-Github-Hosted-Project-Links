@@ -7,7 +7,7 @@ https://hidden-dream-4d93.adityaans17.workers.dev/2:/weatherwizbot
 https://beware-the.devilreturns.workers.dev/1:/
    
    <a href="https://chat.whasapp.com/KOnpnpNuChpC6P2NVmj1Q">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+    <img src="/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>
   
   
