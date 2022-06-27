@@ -1,21 +1,4 @@
 
-Index links : (Shared Mirror Drive for mirroring)
-https://speedy.rootop.workers.dev/1:/
-https://broad-rice-2129.adityaans17.workers.dev
-https://hidden-dream-4d93.adityaans17.workers.dev/0:/wizardozmirrorleecher_bot
-https://hidden-dream-4d93.adityaans17.workers.dev/2:/weatherwizbot
-https://beware-the.devilreturns.workers.dev/1:/
-   
-   <a href="https://chat.whasapp.com/KOnpnpNuChpC6P2NVmj1Q">
-    <img src="/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
-  </a>
-  
-  
-  <a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC-5-P2ShRYIis_HItg8YsWw&key=AIzaSyBUTJFpgm19ko9RGJGC4xGiaJHMHj6vk48"/>
-</a>
-
-
 ### Other Github Hosted Projects:
 <a href="https://jackhallloween21.github.io/3D-Menu-Design/" target="blank"><img align="center" src="https://imgur.com/qOK0Xvc.png" alt="3D_Menu_Design" height="250" width="250" /></a> **3D Menu Design** [![Website 3D Menu Design](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/3D-Menu-Design/)
  
@@ -50,3 +33,16 @@ https://beware-the.devilreturns.workers.dev/1:/
    <a href="https://jackhallloween21.github.io/Wall-Clock/" target="blank"><img align="center" src="https://imgur.com/gZwQqxJ.png" alt="Wall Clock" height="150" width="150" /></a> **Wall Clock** [![Website Wall Clock](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/Wall-Clock/)
    
    <a href="https://jackhallloween21.github.io/Chrome-offline-dino-cat-game/" target="blank"><img align="center" src="https://imgur.com/2xk6Zc1.gif" alt="Pickel Maze" height="250" width="250" /></a> **Cat Dino Game** [![Website Chrome Dino Game](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/Chrome-offline-dino-cat-game/)
+
+
+### Index links telegram bots: (Shared Mirror Drive for mirroring)
+<a href="https://speedy.rootop.workers.dev/1:/" target="blank"><img align="center" src="https://imgur.com/sMXzXwH.png" alt="Gdrive Index" height="250" width="250" /></a> **Not mine Gdrive index**
+
+<a href="https://broad-rice-2129.adityaans17.workers.dev" target="blank"><img align="center" src="https://imgur.com/TbRfGqk.png" alt="Gdrive Index" height="250" width="250" /></a> **Mine Gdrive index**
+
+<a href="https://hidden-dream-4d93.adityaans17.workers.dev/0:/wizardozmirrorleecher_bot" target="blank"><img align="center" src="https://imgur.com/eZWq6Fr.png" alt="Gdrive Index" height="250" width="250" /></a> **Mine Gdrive index wizardozmirrorleecher bot**
+
+<a href="https://hidden-dream-4d93.adityaans17.workers.dev/2:/weatherwizbot" target="blank"><img align="center" src="https://imgur.com/LdstG09.png" alt="Gdrive Index" height="250" width="250" /></a> **Mine Gdrive index Weatherwiz bot**
+
+<a href="https://beware-the.devilreturns.workers.dev/1:/" target="blank"><img align="center" src="https://imgur.com/dm83i6g.png" alt="Gdrive Index" height="250" width="250" /></a> **not Mine Gdrive index bot**
+
