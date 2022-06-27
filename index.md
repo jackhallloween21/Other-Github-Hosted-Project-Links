@@ -15,11 +15,6 @@ https://beware-the.devilreturns.workers.dev/1:/
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC-5-P2ShRYIis_HItg8YsWw&key=AIzaSyBUTJFpgm19ko9RGJGC4xGiaJHMHj6vk48"/>
 </a>
 
-<a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1"><img alt="youtube views" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?color=0a8b9d#"/></a>
-
-<a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?logoColor=gold#"/></a>
-
-![](https://gitwar.herokuapp.com/badge?username=jackhallloween21&color=green&style=plastic)
 
 ### Other Github Hosted Projects:
 <a href="https://jackhallloween21.github.io/3D-Menu-Design/" target="blank"><img align="center" src="https://imgur.com/qOK0Xvc.png" alt="3D_Menu_Design" height="250" width="250" /></a> **3D Menu Design** [![Website 3D Menu Design](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/3D-Menu-Design/)
