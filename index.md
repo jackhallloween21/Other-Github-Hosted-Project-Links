@@ -5,7 +5,13 @@ https://broad-rice-2129.adityaans17.workers.dev
 https://hidden-dream-4d93.adityaans17.workers.dev/0:/wizardozmirrorleecher_bot
 https://hidden-dream-4d93.adityaans17.workers.dev/2:/weatherwizbot
 https://beware-the.devilreturns.workers.dev/1:/
-
+</a>    <a href="#">
+    <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UC-5-P2ShRYIis_HItg8YsWw">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC-5-P2ShRYIis_HItg8YsWw&key=AIzaSyBUTJFpgm19ko9RGJGC4xGiaJHMHj6vk48"/>
+</a>
 ### Other Github Hosted Projects:
 <a href="https://jackhallloween21.github.io/3D-Menu-Design/" target="blank"><img align="center" src="https://imgur.com/qOK0Xvc.png" alt="3D_Menu_Design" height="250" width="250" /></a> **3D Menu Design** [![Website 3D Menu Design](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://jackhallloween21.github.io/3D-Menu-Design/)
  
