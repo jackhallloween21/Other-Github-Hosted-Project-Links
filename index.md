@@ -6,8 +6,8 @@ https://hidden-dream-4d93.adityaans17.workers.dev/0:/wizardozmirrorleecher_bot
 https://hidden-dream-4d93.adityaans17.workers.dev/2:/weatherwizbot
 https://beware-the.devilreturns.workers.dev/1:/
    
-   <a href="#">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
+   <a href="https://chat.whasapp.com/KOnpnpNuChpC6P2NVmj1Q">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>
   
   
